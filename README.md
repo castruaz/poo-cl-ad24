@@ -26,10 +26,20 @@
 - p15_ConvertirADolares
 
 ## Actividad 3 - Trabajando con números
-
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos
 
+## Actividad 4 - Ejecucion condicional parte 1
+- p21_VerificarNumero
+- p22_VerificarSuma
+- p23_ConvertirTemperaturaV2
+- p24_PagaTrabajadorV2
+
+## Actividad 5 - Ejecucion condicional parte 2
+- p25_EstacionesAño
+- p26_TipoAngulo
+- p27_AceptarEstudiante
+- p28_LeyDeNewton
