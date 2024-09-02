@@ -65,7 +65,6 @@
 - p42_TablaMultiplicar
 - p43_ConteoNumeros
 
-
 ## Actividad 8 - Ejecución repetitiva parte 2
 - p44_ParesAscendente
 - p45_ImparesDescendente
